@@ -14,7 +14,7 @@ The scripts used to build the binary files expect the `cc65` toolchain to be acc
 Install `cc65`, then either add the `cc65\bin` folder to your `PATH` variable,
 or edit the scripts to use the full path to your `ca65` and `cl65` executables, i.e.
 change `ca65` to `C:\cc65\bin\ca65.exe` and `ld65` to `C:\cc65\bin\ld65.exe`,
-and do that for both make.bat files.
+and do that for both `make.bat` files.
 
 
 
