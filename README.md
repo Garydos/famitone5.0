@@ -4,8 +4,7 @@ This is a version of famitone5 with extra scripts for creating binary blobs usab
 For making binary versions of song data as well to work with this binary version of famitone5, see the `README.md` 
 file in the `text2data` directory.
 
-# Binary blob compiled with the default options `(DPCM samples @ $FC00, Famitone5 itself @ $C000)` is provided in the `bin` directory
-### DON'T FORGET TO CHECK `famitone5.info` FOR THE ADDRESS OF EACH FUNCTION IF YOU CHANGE THE BINARY TO RESIDE IN A DIFFERENT LOCATION IN ROM !!!
+**DON'T FORGET TO CHECK `famitone5.info` FOR THE FUNCTION ADDRESSES AFTER COMPILING!!!**
 
 ## Build Requirements
 
