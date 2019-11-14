@@ -2,7 +2,7 @@
 Once you have a Famitone5 compatible song or set of songs, use Famitracker
 to export it/them as a `.txt` file (in Famitracker: `File->Export Text...`).  Next, place your `song.txt` file
 in the `text2data` directory.  Run `make.bat` with your `song.txt` file as a parameter,
-In windows drag `song.txt` over `make.bat` to run `make.bat` with `song.txt` as a parameter.  You can also do this
+**In windows, drag `song.txt` over `make.bat` to run `make.bat` with `song.txt` as a parameter**.  You can also do this
 from the command line with the command `.\make.bat song.txt`.
 
 Enter your build options when prompted, and then you'll
